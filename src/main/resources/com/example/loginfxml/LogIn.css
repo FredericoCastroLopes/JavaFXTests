@@ -1,0 +1,25 @@
+.root {-fx-background-image: url("asde.png");}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0E1D33;
+}
+
+.button{
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1,#2A5058);
+}
+
+
+#actiontarget{
+    -fx-fill: WHITE;
+    -fx-font-weight: BOLD;
+}
+
+#abc{
+    -fx-font-size: 22px;
+    -fx-effect: dropshadow( one-pass-box , white , 8 , 0.0 , 2 , 0 );
+}
